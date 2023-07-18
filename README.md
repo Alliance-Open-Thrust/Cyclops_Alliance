@@ -29,7 +29,7 @@ The Cyclope-K-Mark-II has limitations and with a poor flight time, and it requir
 
 # Warranties & Disclaimers
 
-The Warranties and Disclaimers from the LICENCE IS CERN-OHL-P V2 (Permissive) apply to all Open-Thurst Community Repositories and contained sources.
+The Warranties and Disclaimers from the LICENCE IS CERN-OHL-P V2 (Permissive) apply to all Open-Thrust Alliance Hardware Repositories and contained sources.
 https://ohwr.org/cern_ohl_p_v2.pdf
 
 Extract:
