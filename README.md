@@ -14,7 +14,7 @@ https://ohwr.org/cern_ohl_p_v2.pdf
 
 All this repository is under CERN Open Hardware Licence Version 2 - Permissive.
 Any further fork and/or modification must bear the following "Acknowledgement Notice" as per chapter 1.6 of Definition of the CERN-OHL-PV2 Licence:
-"Acknowledgement of the Original Authors: Neva-Aero and the Human Team Members between 2016 and 2022 : F.M. Robert Vergnes, Valentin Bertrand, Kevin Pantoja, Olivier Chevillard, Elie de Fonclare, David Brotherton-Ratcliffe, Renaud-Pierre Blanpain, Anthony Gambus", and "Cyclops Series - Open-Thrust Community Edition - Licence CERN-OSL-S-V2".
+"Acknowledgement of the Original Authors: Neva-Aero and the Human Team Members between 2016 and 2022 : F.M. Robert Vergnes, Valentin Bertrand, Kevin Pantoja, Olivier Chevillard, Elie de Fonclare, David Brotherton-Ratcliffe, Renaud-Pierre Blanpain, Anthony Gambus", and "Cyclops Series - Open-Thrust Alliance Edition - Licence CERN-OSL-S-V2".
 
 # About using this repository
 MAIN WILL NOT CHANGE.
